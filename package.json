@@ -1,7 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
-  "homepage": "https://ELITE-DEV-22.github.io/Budget-Tracker",
+  "homepage": "https://github.com/ELITE-DEV-22/Budget-Tracker",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
@@ -45,6 +45,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
